@@ -1,0 +1,31 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+/*	請將first 裡的 jumbotron class 的高度設定為 50vh。*/
+
+#twophoto img{
+
+    height: 75vh;
+ 
+ }
+
+#threephoto img{
+
+    height: 75vh;
+
+}
+
+#fourphoto img{
+
+    height: 75vh;
+
+}
+ 
+#location{
+	
+	padding-top:100px;
+	
+}
+
+
